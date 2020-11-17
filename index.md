@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Kyle Beadle"
+title: "Recent Posts"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: /images/typewriter.jpg
