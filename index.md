@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-permalink: /about/index.html
+permalink: /index.html
 title: About Me
 description: My name is Kyle Beadle, and I am a researcher, writer, and futurist.
 tags: [about, Jekyll, theme, responsive]
