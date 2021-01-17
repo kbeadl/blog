@@ -7,7 +7,7 @@ tags: [about, Jekyll, theme, responsive]
 ---
 <img src="/images/portrait.png" style="width: 50%; height: 50%"/>
 
-<h1 style="font-style: italic;">About me</h1>
+<h1 style="font-style: italic; text-align: center;">About me</h1>
 
 My name is Kyle Beadle, and I am a researcher, writer, and futurist.
 
