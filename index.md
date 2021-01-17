@@ -5,7 +5,7 @@ title: About Me
 description:
 tags: [about, Jekyll, theme, responsive]
 ---
-![Drawing A]({{ site.url }}/images/portrait.png)
+<img src="/images/portrait.png" style="width: 50%; height: 50%"/>
 
 My name is Kyle Beadle, and I am a researcher, writer, and futurist.
 
