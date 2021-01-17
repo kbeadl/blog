@@ -2,11 +2,10 @@
 layout: post-no-feature
 permalink: /index.html
 title: About Me
-description: ![Drawing A]({{ site.url }}/images/portrait.png)
+description: My name is Kyle Beadle, and I am a researcher, writer, and futurist.
 tags: [about, Jekyll, theme, responsive]
 ---
-
-My name is Kyle Beadle, and I am a researcher, writer, and futurist.
+![Drawing A]({{ site.url }}/images/portrait.png)
 
 I broadly study theories of power, with a specific focus on the relationship between power and digital technology as well as the power of futures.
 
